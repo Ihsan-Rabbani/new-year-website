@@ -1,0 +1,138 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Work Sans', sans-serif;
+}
+header {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    height: 800px;
+    padding: 20px 20px;
+    display: flex;
+}
+.banner-content{
+    text-align: right;
+}
+.banner-heading {
+    font-size: 41px;
+    color: #FFFFFF;
+    padding: 16px 133px 0px 812px;
+    margin: 97px -4px 20px 3px;
+}
+.banner-description {
+        color: #FFFFFF;
+        padding-left: 784px;
+        padding-right: 129px;
+}
+.btn-primary {
+    height: 65px;
+    width: 201px;
+    background: #FFFFFF;
+    text-align: center;
+    border-radius: 5px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 24px;
+    border: none;
+    margin-right: 130px;
+    margin-top: 32px;
+}
+.about {
+    margin-top: 130px;
+    width: 1072px;
+    display: flex;
+    gap: 87px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 300px 227px 200px;
+}
+.work-title{
+    font-size:30px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 27px;
+}
+.call-button{
+    height: 65px;
+    width: 201px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 24px;
+    border: none;
+}
+.good-mindset{
+    position: absolute;
+    color:#FFFFFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 60px 60px;
+    padding-bottom: 24px;
+}
+.plan1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.plan2{
+    margin-left: 200px;
+    background-image: url('../images/watch.png');
+    width: 1140px;
+    height: 300px;
+    margin-bottom: 130px;
+}
+.center{
+   padding-left: 50px;
+   padding-top: 232px;
+}
+.work-description{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 130px;
+}
+.future-plans-container{
+    display: flex;
+    gap: 130px;
+    padding-left: 200px;
+}
+
+.section-title{
+    text-align: right;
+    font-weight: 700;
+    font-size: 40px;
+}
+.section-description {
+    font-size: 18px;
+    color: #757575;
+}
+
+footer{
+    background: #151414;
+    max-height: 577px;
+    max-width: 1600px;
+    color: #FFFFFF;
+    display: flex;
+}
+.footer-right{
+    justify-content: space-evenly;
+}
+.footer-content{
+    padding: 141px 875px 119px 240px;
+}
+.footer-heading{
+    padding-bottom: 16px;
+    font-weight: 700;
+    font-size: 45px;
+}
+.footer-description{
+    margin-bottom: 24px;
+}
+.mail{
+    margin-bottom: 16px;
+}
+.footer-right-content h3{
+    text-align: right;
+}
